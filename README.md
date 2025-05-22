@@ -1,13 +1,13 @@
 # Description
-Implemented multiple search algorithms including A*, Bidirectional Greedy Search, and Backward Chaining to solve maze navigation problems in an environment with obstacles.
+Multiple search algorithms including A*, Bidirectional Greedy Search, and Backward Chaining to solve maze navigation problems in an environment with obstacles.
 
 #Features
 
-•	Designed and optimized search strategies using Manhattan heuristics, custom data structures, and priority queues to dynamically explore state spaces and reconstruct optimal or near-optimal paths.
+•	Optimized search strategies using Manhattan heuristics, custom data structures, and priority queues to dynamically explore state spaces and reconstruct optimal or near-optimal paths.
 
-•	Engineered logical reasoning modules using First-Order Logic and Generalized Modus Ponens to infer movement paths and evaluate navigability without direct search.
+•	Logical reasoning modules using First-Order Logic and Generalized Modus Ponens to infer movement paths and evaluate navigability without direct search.
 
-•	Built interactive visualizations in Python to simulate agent movement and frontier expansion; included step-by-step path reconstruction and real-time debugging output.
+•	Interactive visualizations in Python to simulate agent movement and frontier expansion; included step-by-step path reconstruction and real-time debugging output.
 
 •	Extended solutions to randomized environments to validate algorithm robustness under increased complexity and obstacle variation.
 
